@@ -4,7 +4,7 @@ import React from "react";
 import styled from "styled-components";
 import CreateContent from "../Modals/CreateContent";
 import TaskItem from "../TaskItem/TaskItem";
-import { add, plus } from "@/app/utils/Icons";
+import { add, plus } from "@/app/utils/icons";
 import Modal from "../Modals/Modal";
 
 interface Props {

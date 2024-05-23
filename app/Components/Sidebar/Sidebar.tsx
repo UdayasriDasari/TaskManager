@@ -8,7 +8,7 @@ import menu from "@/app/utils/menu";
 import Link from "next/link";
 import { usePathname, useRouter } from "next/navigation";
 import Button from "../Button/Button";
-import { arrowLeft, bars, logout } from "@/app/utils/Icons";
+import { arrowLeft, bars, logout } from "@/app/utils/icons";
 import { UserButton, useClerk, useUser } from "@clerk/nextjs";
 
 function Sidebar() {
